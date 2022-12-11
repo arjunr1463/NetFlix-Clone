@@ -1,0 +1,5 @@
+.gradient{
+    height:30rem;
+    background-image: linear-gradient(180deg,transparent,rgba(37,37,37,.61),#111);
+
+}

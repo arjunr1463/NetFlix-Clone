@@ -1,0 +1,10 @@
+.post::-webkit-scrollbar{
+    display: none;
+}
+.smallhead{
+    font-size:25px;
+    color: white;
+    font-weight: bold;
+    
+
+}
